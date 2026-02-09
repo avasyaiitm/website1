@@ -14,7 +14,8 @@ const Crew = () => {
                 { name: "Sunidhi Jain", role: "Founder", quote: "Innovation is our fuel.", img: "/images/sunidhi.jpg", linkedin: "https://www.linkedin.com/in/sunidhi-jain-17aba4237" },
                 { name: "Krishnan Lakshmi Narayana ", role: "Founder", quote: "To infinity and beyond.", img: "/images/keshava.jpg", linkedin: "https://www.linkedin.com/in/KLN12", email: "22f3002565@ds.study.iitm.ac.in" },
                 { name: "Rohit", role: "Secretary", quote: "Supporting the mission.", img: "/images/rohit.jpeg", linkedin: "https://www.linkedin.com/in/rohitsharma1819", email: "23f2004708@ds.study.iitm.ac.in" },
-                { name: "Aditya", role: "Website Developer", quote: "Innovation is our fuel.", img: "/images/aditya.jpg", linkedin: "https://www.linkedin.com/in/aditya-jangra-767632281", email: "aditya219jangra@gmail.com" }
+                { name: "Aditya", role: "Website Developer", quote: "Innovation is our fuel.", img: "/images/aditya.jpg", linkedin: "https://www.linkedin.com/in/aditya-jangra-767632281", email: "aditya219jangra@gmail.com" },
+                { name: "Kavisha", role: "Deputy Secretary", quote: "Innovation is our fuel.", img: "/images/kavisha.jpeg", linkedin: "https://www.linkedin.com/in/kavishakapoor", email: "24f2004122@ds.study.iitm.ac.in" }
             ]
         },
         {
